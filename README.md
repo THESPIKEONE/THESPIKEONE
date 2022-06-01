@@ -1,7 +1,9 @@
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm younes sarni</h1>
 <h3 align="center">A passionate fullstack and mobile developer from Algeria</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Always+learning+new+things;Youtuber;Freelancer&center=true&width=380&height=45"></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thespikeone&label=Profile%20views&color=0e75b6&style=flat" alt="thespikeone" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thespikeone" alt="thespikeone" /></a> </p>
 
@@ -37,7 +39,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/younessarni"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="younessarni" /></a></p><br><br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thespikeone&show_icons=true&locale=en&layout=compact" alt="thespikeone" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thespikeone&show_icons=true&locale=en" alt="thespikeone" /></p>
